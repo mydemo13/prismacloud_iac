@@ -10,5 +10,5 @@ terraform_012_parameters:
 #    - example_with_variables/variables.tf
 #
 tags:
-  team: pcxyz
+  owner: kyeu
 
